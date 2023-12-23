@@ -59,7 +59,7 @@
   
   * It is interesting that the FID result of image grounding isn't better than that of text grounding. I think the reason is that I didn't choose the image I intended to generate, which led to the result of the generation not improving.
 
-### 4. Improvement of Detection Model
+### 4. Improve Model
 
 * Brief Description
 
@@ -139,8 +139,7 @@ pip uninstall -y torchtext
   CUDA_VISIBLE_DEVICES=0 python 1.py 
   ```
 
-### 2. Text-to-Image Generation
-### 3. Calculate FID
+### 2. Text-to-Image Generation & 3. Calculate FID
 
 * Copy the file ```23.py``` to the ```GLIGEN``` directory, move to it and execute.
 
@@ -148,14 +147,16 @@ pip uninstall -y torchtext
   cp -r 23.py GLIGEN/23.py
   cd GLIGEN
   python 23.py --batch_size 1
+  cd ..
   ```
 
-### 4. Improvement Model
+### 4. Improve Model
 * To generate the needed images, running 
   ```
   cp -r 4-1.py GLIGEN/4-1.py
   cd GLIGEN
   python 4-1.py --batch_size 1
+  cd ..
   ```
 
 * After generating the images, we then prepared for the training datasets and annotations.
