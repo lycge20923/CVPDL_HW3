@@ -76,6 +76,28 @@
   |V|Random|Text Groudning|0.4655|
   |V|Random|Image Groudning|0.4729|
 
+### 5. Visualization
+* fish
+<div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/fish/Combine.PNG'></div>
+
+* jellyfish
+<div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/jellyfish/Combine.PNG'></div>
+
+* penguin
+<div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/penguin/Combine.PNG'></div>
+
+* puffin
+<div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/puffin/Combine.PNG'></div>
+
+* shark
+<div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/shark/Combine.PNG'></div>
+
+* starfish
+<div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/starfish/Combine.PNG'></div>
+
+* stingray
+<div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/stingray/Combine.PNG'></div>
+
 ## Excution
 
 ### Preliminary Action
