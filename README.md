@@ -83,27 +83,27 @@
 
 * jellyfish
 
-  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/jellyfish/Combine.PNG'></div>
+  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/jellyfish/Combine.png'></div>
 
 * penguin
 
-  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/penguin/Combine.PNG'></div>
+  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/penguin/Combine.png'></div>
 
 * puffin
 
-  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/puffin/Combine.PNG'></div>
+  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/puffin/Combine.png'></div>
 
 * shark
 
-  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/shark/Combine.PNG'></div>
+  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/shark/Combine.png'></div>
 
 * starfish
 
-  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/starfish/Combine.PNG'></div>
+  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/starfish/Combine.png'></div>
 
 * stingray
 
-  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/stingray/Combine.PNG'></div>
+  <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_5/stingray/Combine.png'></div>
 
 ## Excution
 
