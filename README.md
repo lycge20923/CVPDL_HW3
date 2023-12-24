@@ -76,6 +76,19 @@
   |V|Random|Text Groudning|0.4655|
   |V|Random|Image Groudning|0.4729|
 
+* Why wasn't the performance improving significantly? In my opinion, there are several reasons that could have led to this situation:
+  1. The quality of the generated images was poor: In nearly half of the generated images, the distinction between 'real' animals and 'generated' animals is quite apparent. In other words, to the human eye, the animals in the generated images appeared 'unreal,'(this situation is significant when we talk about the images of *stingray*), which could have had an impact on the machine's training process. Following images are the "bad examples"
+
+    <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_4/fail.png'></div>
+
+  2. The domain of the generated images and the original images in the training dataset are different. For example, in the generated images, the background is closer to a colorful undersea environment, which differs slightly from the original dataset. Another example is that the backgrounds of some generated images appear to be photographed underwater, whereas the original images in the dataset are all from the aquarium.
+
+    * The style is Different(left:Original, right:Generated)
+      <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_4/compare.png'></div>
+    
+    * The background is Different(left:Original, right:Generated)
+      <div align=center><img src='https://github.com/lycge20923/CVPDL_HW3/blob/main/result_4/compare_1.png'></div>
+
 ### 5. Visualization
 * fish
 
